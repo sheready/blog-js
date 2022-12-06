@@ -21,7 +21,8 @@ function fetchArticles(data){
     articleBody.appendChild(articleContainer);
     articleContainer.appendChild(articleDetails);
     articleContainer.style.height = "280px";
-    
+    articleContainer.style.marginLeft = "20px";
+
 
     
 
