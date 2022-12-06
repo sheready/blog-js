@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Example Article",
+      "content": "This is an example.",
+      "image": "https://1.bp.blogspot.com/-pdqcVeIQp64/XDX7TzdRdcI/AAAAAAAAM8E/ZmGuB6caZqIGmEflGHcj3zgXJJrmqRLdgCLcBGAs/w1200-h630-p-k-no-nu/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example.",
+      "image": "https://i.ytimg.com/vi/upDLs1sn7g4/maxresdefault.jpg"
+    },
+    {
+      "title": "title 1",
+      "content": "content1",
+      "image": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg",
+      "id": 3
+    }
+  ]
+}
