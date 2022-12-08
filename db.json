@@ -2,9 +2,9 @@
   "articles": [
     {
       "id": 1,
-      "title": "Example Article",
-      "content": "This is an example.",
-      "image": "https://1.bp.blogspot.com/-pdqcVeIQp64/XDX7TzdRdcI/AAAAAAAAM8E/ZmGuB6caZqIGmEflGHcj3zgXJJrmqRLdgCLcBGAs/w1200-h630-p-k-no-nu/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg"
+      "title": "Edited data",
+      "content": "This is the content for edited data ",
+      "image": "https://blog.logrocket.com/wp-content/uploads/2021/02/machine-learning-libraries-javascript.png"
     },
     {
       "id": 2,
@@ -19,12 +19,6 @@
       "id": 3
     },
     {
-      "title": "title2",
-      "content": "content2",
-      "image": "",
-      "id": 4
-    },
-    {
       "title": "feq",
       "content": "eqfqer",
       "image": "https://i.ytimg.com/vi/upDLs1sn7g4/maxresdefault.jpg",
@@ -35,6 +29,18 @@
       "content": "65",
       "image": "https://i.ytimg.com/vi/upDLs1sn7g4/maxresdefault.jpg",
       "id": 6
+    },
+    {
+      "title": "article3",
+      "content": "this is the content for article 3",
+      "image": "https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png",
+      "id": 7
+    },
+    {
+      "title": "title 9",
+      "content": "content for title 9",
+      "image": "https://images.ctfassets.net/yr4qj72ki4ky/legacyBlogPost77Thumbnail/cd4783ad7b35efc4367166a570a9952e/bigstock-Real-Java-Script-Code-Developi-217215433.jpg",
+      "id": 10
     }
   ]
 }
