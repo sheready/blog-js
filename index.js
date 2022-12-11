@@ -1,4 +1,4 @@
-
+document.addEventListener('DOMContentLoaded', () => {
     
     let allArticles = [];
 
@@ -145,6 +145,7 @@
     }
     fetchArticles();
 
+});
     
 
 
