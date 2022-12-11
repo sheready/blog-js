@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+window.document.addEventListener('DOMContentLoaded', () => {
     
     let allArticles = [];
 
