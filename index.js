@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+
     
     let allArticles = [];
 
@@ -145,7 +145,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     fetchArticles();
 
-});
     
 
 
